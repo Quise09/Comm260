@@ -1,0 +1,47 @@
+h1 {
+	font-size: 48px;
+}
+header {
+ background-color: #ffcc00;
+	padding: 20px 0px 10px 0px;
+}
+header h1 { margin-bottom: 25px; padding-left: 25px;}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;
+	text-align: center;
+}
+#content-left {
+	padding: 0px 25px 0px 25px;
+	width: 60%
+	float: left;
+	 margin-bottom: 30px;
+}
+.post {border-right: 5px solid #006633; }
+#main-nav	{
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+blockquote	{
+	color: #222;
+	font-size: 1.3em;
+	font-style: italic;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
