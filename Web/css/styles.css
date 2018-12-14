@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+h4{
+  text-align: center;
+  font-size: 26px;
+  line-height: 8px;
+}
+footer{
+  text-align: center;
+
+}
+
+#tab ul {
+   clear:left;
+   float:center;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+   font-family: 'Fira Sans', sans-serif;
+   font-size: 24px;
+}
+#tab ul li {
+   display:block;
+   float:center;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   right:50%;
+}
+#tab ul li a {
+   display:block;
+   margin:1px 0 0 15px;
+   padding:12px 15px;
+   background:#b3ecff;
+   color:#000;
+   text-decoration:none;
+   line-height:1.3em;
+}
+#tab ul li a:hover {
+   background:#dddd;
+   color:#fff;
+}
+#tab ul li a.active,
+#tab ul li a.active:hover {
+   color:#fff;
+ background:#000;
+ font-weight:bold;
+}
+#popmovies{
+  text-align: center;
+}
+#latestmovies{
+  text-align: center;
+}
+#hotmovies{
+  text-align: center;
+}
+#HomeWallpaper{
+  text-align: center;
+
+}
